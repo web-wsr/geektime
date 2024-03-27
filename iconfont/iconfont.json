@@ -1,0 +1,23 @@
+{
+  "id": "4482657",
+  "name": "jikertime",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5387910",
+      "name": "箭头_列表向右_o",
+      "font_class": "jiantou_liebiaoxiangyou_o",
+      "unicode": "eb8a",
+      "unicode_decimal": 60298
+    },
+    {
+      "icon_id": "13521813",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
